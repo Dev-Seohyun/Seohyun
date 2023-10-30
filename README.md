@@ -4,8 +4,10 @@
 안녕하세요! 개발자를 꿈꾸는 전서현입니다. :v:
 
 긍정적인 마인드로 끝까지 나아가고 싶습니다!
-
-[개발블로그](https://velog.io/@seohyun0206) 
+<br/><br/>
+## ⭐ Portfolio ⭐
+[성장을 꿈꾸는 개발자 포트폴리오 입니다!](https://seohyun-0206.notion.site/seohyun-9db6180a66374bc98c879e05dbc7b7f9?pvs=4)
+<br/><br/>
 
 ## 🔨 Used Tools & Skills 🔨
 
